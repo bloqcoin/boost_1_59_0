@@ -8,7 +8,7 @@
 # boostinspect:notab - Tabs are required for the Makefile.
 
 BJAM=""
-TOOLSET=""
+TOOLSET="gcc"
 BJAM_CONFIG=""
 BUILD=""
 PREFIX=/usr/local
